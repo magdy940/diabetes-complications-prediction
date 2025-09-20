@@ -43,9 +43,12 @@ The dataset contains the following columns:
    - Model predicts the risk of complications
 
 ---
+Deployment
 
-## 🚀 How to Run Locally
-1. Clone the repository:
-   ```bash
-   git clone (https://diabetic-complications-predict.streamlit.app/)
-   cd diabetes-complications-prediction
+The app can be deployed on Streamlit Community Cloud.
+
+(https://diabetic-complications-predict.streamlit.app/)
+
+📌 Example
+
+Input your medical details in the web form → Click "Predict" → Get instant prediction (Diabetic Complications: Yes / No) and probability.
