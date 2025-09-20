@@ -47,5 +47,5 @@ The dataset contains the following columns:
 ## 🚀 How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/diabetes-complications-prediction.git
+   git clone (https://diabetic-complications-predict.streamlit.app/)
    cd diabetes-complications-prediction
